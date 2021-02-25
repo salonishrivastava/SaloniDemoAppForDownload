@@ -1,0 +1,44 @@
+
+E
+java:S1604M"(Make this anonymous inner class a lambda(À®Úæ8«ƒØÁı.
+K
+java:S1604¸"(Make this anonymous inner class a lambda(çÄİöøÿÿÿÿ8…ÎíÁı.
+c	java:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(ÖÕ»š8…ÎíÁı.
+`
+java:S1874"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(ÿÀÁR8€ğÂı.
+e
+java:S1874T"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(â…Íûÿÿÿÿ8ç›ÚÁı.
+_
+java:S1874°"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(â…Íûÿÿÿÿ
+D
+java:S1604»"(Make this anonymous inner class a lambda(¯ÏÃÉûÿÿÿÿ
+H
+java:S1075U"&Remove this hard-coded path-delimiter.(¦¤˜úùÿÿÿÿ8ç›ÚÁı.
+C
+java:S1075"&Remove this hard-coded path-delimiter.(ÿÀÁR8’Âı.
+B
+java:S1075±"&Remove this hard-coded path-delimiter.(¦¤˜úùÿÿÿÿ
+B
+java:S1075±"&Remove this hard-coded path-delimiter.(¦¤˜úùÿÿÿÿ
+^	java:S125‡"<This block of commented-out lines of code should be removed.(‰Ê’™şÿÿÿÿ8…ÎíÁı.
+C
+java:S16595"&Declare "progress" on a separate line.(‡ÚÂ¡8¨‚İÁı.
+^	java:S125Î"<This block of commented-out lines of code should be removed.(•ƒë‹üÿÿÿÿ8…ÎíÁı.
+c
+java:S2095ä"EUse try-with-resources or close this "ZipFile" in a "finally" clause.(éşìÌ8…ÎíÁı.
+H
+java:S1075U"&Remove this hard-coded path-delimiter.(¦¤˜úùÿÿÿÿ8ç›ÚÁı.
+F
+java:S1604¬"(Make this anonymous inner class a lambda(ù–‚ó8…ÎíÁı.
+^
+java:S1874j"CRemove this use of "getExternalStorageDirectory"; it is deprecated.(â…Íûÿÿÿÿ
+Q	java:S1101"<This class has 9 parents which is greater than 5 authorized.(²Ú±
+c	java:S112Ş"FDefine and throw a dedicated exception instead of using a generic one.(µÅµ”8…ÎíÁı.
+J
+java:S1604E"(Make this anonymous inner class a lambda(±Ò¥şÿÿÿÿ8±ÅïÁı.
+B
+java:S16595"%Declare "viewWeb" on a separate line.(‡ÚÂ¡8·×êÁı.
+D
+java:S1604‚"(Make this anonymous inner class a lambda(› »¾ùÿÿÿÿ
+R
+java:S3740æ"/Provide the parametrized type for this generic.(¦„Óùÿÿÿÿ8…ÎíÁı.

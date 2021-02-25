@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="45dp"
+        android:text="@string/Download"
+        android:id="@+id/download"
+        android:layout_marginTop="12dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/back_shade_designmain"
+        android:textColor="@color/white"
+        android:gravity="center"
+     />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/progress"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:layout_margin="12dp"
+       android:textColor="@color/colorPrimary"
+        android:layout_below="@+id/download"
+        />
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="45dp"
+        android:id="@+id/viewWeb"
+        android:text="@string/ViewWebsite"
+        android:layout_marginTop="12dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/back_shade_designmain"
+        android:textColor="@color/white"
+        android:visibility="gone"
+        android:gravity="center"
+        />
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+       />
+
+</RelativeLayout>
